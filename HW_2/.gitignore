@@ -1,0 +1,12 @@
+node_modules
+.env
+.vscode
+.idea
+log.txt
+*.txt
+chat.js
+chat_app1.js
+
+# Logs
+logs
+npm-debug.log*
