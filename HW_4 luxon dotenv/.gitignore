@@ -1,0 +1,12 @@
+node_modules
+.env
+.vscode
+.idea
+log.txt
+*.txt
+
+# Logs
+logs
+npm-debug.log*
+
+file-operation1.js
