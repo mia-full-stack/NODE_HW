@@ -1,0 +1,6 @@
+import "./src/task1"
+import "./src/task2"
+import "./src/task3"
+import "./src/task4"
+import "./src/task5"
+import "./src/task6"
